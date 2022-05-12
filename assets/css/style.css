@@ -18,7 +18,7 @@ h1, h2, h3, h4, h5, h6 {
 #banner .page-banner {
       height: 50vh;
       width: 100vw;
-      background-image: url(/assets/image/banner-option-2.png);
+      background-image: url(./assets/image/banner-option-2.png);
       background-position: center;
       box-shadow: 10px 10px 5px #aaaa;
 }
